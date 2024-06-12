@@ -40,7 +40,7 @@
 				~ authorised user ~
 		Allow options for authorised user, create a new schedule (choose month\week\day), 
 		randomise current schedule, change/adjust member schedule time, swap members one by one
-		inside the schedule, 
+		inside the schedule, adjust to specific requests or change an entire colum or row (day or shift)
 		
 		
 
@@ -55,9 +55,10 @@
 
 
 
-*members   -  the user should be able to easily swap members beteween shifts 
-		  		whenever convenient manually allowing easy selection for specific requests
-		  		and eventual changes in the schedule.
+*Comments   -   The admin can add comments for each staff member that are only visible to permitted accounts.
+
+		
+
 
 *create you first account - 		~ idea 1 ~
 				
@@ -82,20 +83,24 @@
 
 
 
-*login 		- only authorasided personnel should be able to 
-*logout		  gain access to the app so it should handle login and password.		
+*login 		- All staff members should be able to have access to the app in their phones, also have a login and password.
+*logout		  logged out options ~ read idea 1 & 2 ~
 
 
 
-*user accounts	- the possibility of different permits for different accounts, 
-		  authorised account have create mode while others can only create the schedule.
+*user permits	- the possibility of different permits for different accounts, 
+		  authorised account have admin mode, being able to adjust every aspect of the app. 
+		  while others can only create the schedule and some can only see their shedule and got through the profiles.
+		  
 		  Authorised account can add and remove staff members, increase or reduce credits, 
-		  give time off or holidays, create new roles and change start and finish hours
+		  give time off or holidays, create new roles and change start and finish hours 
+		  and close for the day or change all closed days. Add or delete profiles, manage
+		  add or delete shifts, roles, comments. 
 
 
-*send message - send message to all or look for staff with info from the app itself, if the phone
-		number is saved in the app the message could be send as SMS, also the option of
-		sending a message from the application itself,  
+*send message - send message to all or one for staff from the app itself, have a message box and notification wall
+		for change of events, including a notification bell. and  if the phone number or whatsapp account is
+		linked to the app the message can be sent outside of the app.
 	 
 timetable	
 holidays	
