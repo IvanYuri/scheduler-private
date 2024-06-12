@@ -1,0 +1,106 @@
+				#### TARGET ####
+
+ Our app is specifically designed for staff members responsible for scheduling shifts for their colleagues.
+ It is ideal for managers in various industries, including pubs, restaurants, hotels, shops, pharmacies, and more, 
+ who need to manage a considerable number of staff, shifts, diverse roles, and timetables. By simplifying 
+ shift management and automating the scheduling process, our app drastically reduces the time spent on this
+ task, transforming what could take hours into just seconds. This efficient solution ensures a seamless
+ scheduling experience, allowing managers to focus on more critical aspects of their operations.  
+
+
+			   #### FUNCTIONALITIES ####
+
+*main page	- main page should hold all features of the application such as 
+		  
+		  AI manager chatbot
+		  schedule
+		  Profile
+		  comments
+		  staff member info & number of shifts
+		  send message
+		  manage staff
+		  manage shifts
+		  timetable
+		  holidays & time off
+		  create new account
+		  delete account
+		  
+
+*AI manager -   The application have a bot who can go through all the app and do what you ask it to,
+		as an example, if you ask to change the entire schedule, or if you ask it to change
+		the schedule of one specific person inside your members list, also manages all other
+		functionalities as create, delete, send message, give holidays, give time off, and
+		add comments about one specific member.
+		 
+
+
+*schedule    -  In the schedule area you should be able to see the current schedule 
+		Every member should be able to see their timetable, profile, and the general schedule
+
+				~ authorised user ~
+		Allow options for authorised user, create a new schedule (choose month\week\day), 
+		randomise current schedule, change/adjust member schedule time, swap members one by one
+		inside the schedule, 
+		
+		
+
+*Profile     -  Profile contains all information about the member, photo is applicable, and timetable.
+
+		All members should be able to see their profile, which is described their roles, info,
+		shifts and availability. Only authorised staff can see the comments, holidays taken,
+		available days off.
+
+		Authorised account should also be able to edit profile information inside the member page,
+		add or remove shifts, change name, give holidays or time off, delete profile.
+
+
+
+*members   -  the user should be able to easily swap members beteween shifts 
+		  		whenever convenient manually allowing easy selection for specific requests
+		  		and eventual changes in the schedule.
+
+*create you first account - 		~ idea 1 ~
+				
+			    adminin should be linked to one e-mail only for security, 
+			    if you log out of the app the only message to display should 
+			    be ''login and password'' it should still be possible to create 
+			    new accounts inside the app if you hold permission.
+
+				       ~ idea 2 ~
+
+			   Once you are logged out the options are ''Login and Password''
+			   and also a button ''Create New *Schedule*'' to facilitate new
+			   users and businesses to have their account in the App taking
+			   the user to a new page 
+			   
+				### CREATE NEW *SCHEDULE* ###
+			   it can add the name of the company, description of the company
+			   main e-mail, password, main user information (name, surname, contact number), 
+			   type of business, roles, shifts, days, schedule size, 
+			   number of staff needed to fill each shift, closed days if applies, 
+			   have an AI manager chatbot.
+
+
+
+*login 		- only authorasided personnel should be able to 
+*logout		  gain access to the app so it should handle login and password.		
+
+
+
+*user accounts	- the possibility of different permits for different accounts, 
+		  authorised account have create mode while others can only create the schedule.
+		  Authorised account can add and remove staff members, increase or reduce credits, 
+		  give time off or holidays, create new roles and change start and finish hours
+
+
+*send message - send message to all or look for staff with info from the app itself, if the phone
+		number is saved in the app the message could be send as SMS, also the option of
+		sending a message from the application itself,  
+	 
+timetable	
+holidays	
+
+
+
+
+			    #### DESCRIPTION ####

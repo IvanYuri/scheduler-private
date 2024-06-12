@@ -1,0 +1,51 @@
+			Automating process of schedule using Python
+
+Altought automating a staff schedule sounds like a simple ideia it something that yet is commonly done manually.
+During a meeting with Datakult on Discord he mentioned the idea that we do not sell technology what we do actually
+is making people's lives easier by selling solutions, one of those was that the proccess of 
+creating a timetable for your staff as a manager can be overwhelming. But it can be easily done by machine automation.
+
+So it sound simple and doable and I want to try writing a code for it myself, in order to achieve this I will
+first organise in a list the things that need to be done. Altought this format can change along the week I will
+try to develop a diary to keep up with all the alterations while I'm on it.
+
+So the first list of ideias is:
+use CSV or SQL to store and manage the staff,
+the possible database should contain staff information (NAME, ID)
+the other possible table should contain info about the shifts and the working areas. (SHIFTS, FUNCTION)
+
+create a code to fill the avaiable SHIFTS for each FUNCTION with the staff NAME and ID.
+it also has to be easily manipulated as needed. 
+
+22:47 03/06/24
+
+
+
+
+scheduler not ready, it was done and presented today unfortunally it behaved badly during presentation
+but that is probably my fault when I was redirecting it through files.
+
+Idea presented and explained as basic structure but yet not ready for production
+
+01:07 06/06/2024 
+
+
+The code has been tested in extented manners, I have added more shifts and staff members and it 
+seems flexible regarding the length of the json file. Meaning it needs low to no mantaince.
+
+Code writen in Python and json file for data storage, no CSV or SQL nedeed. 
+the code is short and flexible now takes most parameters given and sort shifts
+randomcly but fair, givin the number pf credits of each staff member, it distributes them
+for each day as necessary.
+with low correction it is ready to start production.
+
+01:19 11/06/2024
+
+It works!! 
+
+Perfect so the presentation was a success and the next step now is to develp the idea better, 
+so the question is which attributes should the APP have to make the life of a manager easier?
+
+So for the following lines I will try to describe the APP itself and all it's functionalities.
+Is no problem for the app to be robust and tide, so to put in a ordered list all the necessary attributes
+I first need to come up with all the variables it might take, 

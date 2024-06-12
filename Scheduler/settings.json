@@ -1,0 +1,13 @@
+{
+    "members" : [
+        {"name" :"Yuri", "shifts" : 12},
+        {"name" :"Celine", "shifts" : 12},
+        {"name" :"Josh", "shifts" : 12}
+    ],
+
+    "spaces" : [ 
+        {"name" : "Kitchen", "period" : ["morning", "afternoon", "evening"]},
+        {"name" : "Kitchen Porter", "period" : ["morning", "afternoon", "evening"]},
+        {"name" : "Front House", "period" : ["morning", "afternoon", "evening"]}
+    ]
+}

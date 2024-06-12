@@ -1,0 +1,66 @@
+{
+    "members": [
+        {
+            "name": "Yuri",
+            "shifts": 12
+        },
+        {
+            "name": "Celine",
+            "shifts": 12
+        },
+        {
+            "name": "Josh",
+            "shifts": 12
+        },
+        {
+            "name": "Karl",
+            "shifts": 12
+        },
+        {
+            "name": "Erik",
+            "shifts": 12
+        },
+        {
+            "name": "Kamille",
+            "shifts": 12
+        },
+        {
+            "name": "Arabella",
+            "shifts": 12
+        }
+    ],
+    "spaces": [
+        {
+            "name": "Kitchen",
+            "period": [
+                "morning",
+                "afternoon",
+                "evening"
+            ]
+        },
+        {
+            "name": "Kitchen Porter",
+            "period": [
+                "morning",
+                "afternoon",
+                "evening"
+            ]
+        },
+        {
+            "name": "Front House",
+            "period": [
+                "morning",
+                "afternoon",
+                "evening"
+            ]
+        },
+        {
+            "name": "Bar",
+            "period": [
+                "morning",
+                "afternoon",
+                "evening"
+            ]
+        }
+    ]
+}
